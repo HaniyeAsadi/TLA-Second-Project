@@ -6,12 +6,13 @@ Input format is as follows:
 1. In the first line, we get an integer of n that determines the number of variables in the grammar.  
 2. In the next n lines, in each line, we get a rule of that grammar. Variables are wrapped by <>, # stands for nullablle transition and different rules separated by |.  
 3. In the last line, we get a string to check.  
+
 One pair od input and output:
 Input:  
 3  
-<S> -> a<S>b | a<A> | b<B>  
-<A> -> a<A> | #  
-<B> -> b<B> | #  
+&lt;S&gt; -> a&lt;S&gt;b | a&lt;A&gt; | b&lt;B&gt;  
+&lt;A&gt; -> a&lt;A&gt; | #  
+&lt;B&gt; -> b&lt;B&gt; | #   
 aaab  
 Output:  
 Accepted  
