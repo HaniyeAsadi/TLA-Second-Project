@@ -7,7 +7,7 @@ Input format is as follows:
 2. In the next n lines, in each line, we get a rule of that grammar. Variables are wrapped by <>, # stands for nullablle transition and different rules separated by |.  
 3. In the last line, we get a string to check.  
 
-One pair of input and output:
+One pair of input and output:  
 Input:  
 3  
 &lt;S&gt; -> a&lt;S&gt;b | a&lt;A&gt; | b&lt;B&gt;  
