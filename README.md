@@ -16,3 +16,10 @@ Input:
 aaab  
 Output:  
 Accepted  
+# PDA
+In the second question (Q2 file), I've implemented a calculator using PDA (Pushdown Automata). The calculator has these opertors: +, -, *, /(, ), ^, sqrt, sin, cos, tan, abs, exp and ln. Input is only a string to be calculated and the output will be the answer with 2 decimal numbers or "INVALID" if the input is invalid.  
+One pair of input and output:  
+Input:  
+sin(ln(5 ^ 6 * 3 - cos(sin(6))))  
+Output:  
+-0.97  
