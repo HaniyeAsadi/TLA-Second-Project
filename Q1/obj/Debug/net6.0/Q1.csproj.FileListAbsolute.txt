@@ -1,0 +1,15 @@
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\Q1.exe
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\Q1.deps.json
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\Q1.runtimeconfig.json
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\Q1.dll
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\ref\Q1.dll
+C:\git\TLA\TLA-Second-Project\Q1\bin\Debug\net6.0\Q1.pdb
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.csproj.AssemblyReference.cache
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.AssemblyInfoInputs.cache
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.AssemblyInfo.cs
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.csproj.CoreCompileInputs.cache
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.dll
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\ref\Q1.dll
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.pdb
+C:\git\TLA\TLA-Second-Project\Q1\obj\Debug\net6.0\Q1.genruntimeconfig.cache
