@@ -23,3 +23,21 @@ Input:
 sin(ln(5 ^ 6 * 3 - cos(sin(6))))  
 Output:  
 -0.97  
+# Turing machine
+In the third question (Q3 file), we get a turing machine and some strings to check that the machine accept it or not.  
+Input foramt is as follows:
+1. In the first line, we get a string of combination of 0 and 1 that coded a turing machine. Initial state of machine is 1, final state is 1^(numberofstates) and blank is 1.
+2. In the second line, a positive integer of n that shows number of strings to check will be represented.  
+3. In the next n lines, we get an string in  each line.  
+The output will be n line that each line shows "Accpeted" if string accepted by the machine and "Rejected" if it's not.  
+One pair of input and output:  
+Input:  
+101101011011001010110101  
+3  
+   
+11011011  
+110111011  
+Output:  
+Accepted  
+Accepted  
+Rejected  
